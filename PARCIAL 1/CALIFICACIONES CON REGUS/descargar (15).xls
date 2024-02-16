@@ -1,0 +1,145 @@
+<table border='2px'><tr bgcolor='#87AFC6'><th>Matricula</th><th>Alumno</th><th>U#1</th><th>U#2</th><th>U#3</th><th>U#4</th><th>U#5</th><th>U#6</th><th style="display: none;">U#7</th><th style="display: none;">U#8</th><th style="display: none;">U#9</th><th style="display: none;">U#10</th><th style="display: none;">U#11</th><th style="display: none;">U#12</th><th style="display: none;">U#13</th><th>Acreditacion</th></tr><td>
+                        <span id="ctl00_cphContenido_grdCalificacionesRegu$3$0$spnMatricula" class="spanInfo">S21120220</span>
+                    </td><td>
+                        <span id="ctl00_cphContenido_grdCalificacionesRegu$3$0$spnAlumno" class="spanInfo">abonce guzman rodrigo antonio</span>                                    
+                    </td><td>76</td><td>76</td><td>76</td><td>76</td><td>77</td><td>77</td><td style="display: none;"></td><td style="display: none;"></td><td style="display: none;"></td><td style="display: none;"></td><td style="display: none;"></td><td style="display: none;"></td><td style="display: none;"></td><td>Ordinario</td></tr><td>
+                        <span id="ctl00_cphContenido_grdCalificacionesRegu$4$1$spnMatricula" class="spanInfo">S21120225</span>
+                    </td><td>
+                        <span id="ctl00_cphContenido_grdCalificacionesRegu$4$1$spnAlumno" class="spanInfo">abrego estrada angel gabriel</span>                                    
+                    </td><td>72</td><td>92</td><td>89</td><td>88</td><td>88</td><td>88</td><td style="display: none;"></td><td style="display: none;"></td><td style="display: none;"></td><td style="display: none;"></td><td style="display: none;"></td><td style="display: none;"></td><td style="display: none;"></td><td>Ordinario</td></tr><td>
+                        <span id="ctl00_cphContenido_grdCalificacionesRegu$3$2$spnMatricula" class="spanInfo">S21120200</span>
+                    </td><td>
+                        <span id="ctl00_cphContenido_grdCalificacionesRegu$3$2$spnAlumno" class="spanInfo">almanza martinez josue</span>                                    
+                    </td><td>85</td><td>88</td><td>87</td><td>82</td><td>100</td><td>100</td><td style="display: none;"></td><td style="display: none;"></td><td style="display: none;"></td><td style="display: none;"></td><td style="display: none;"></td><td style="display: none;"></td><td style="display: none;"></td><td>Ordinario</td></tr><td>
+                        <span id="ctl00_cphContenido_grdCalificacionesRegu$4$3$spnMatricula" class="spanInfo">S21120218</span>
+                    </td><td>
+                        <span id="ctl00_cphContenido_grdCalificacionesRegu$4$3$spnAlumno" class="spanInfo">andrade lemus luis orlando</span>                                    
+                    </td><td>77</td><td>70</td><td>88</td><td>90</td><td>100</td><td>100</td><td style="display: none;"></td><td style="display: none;"></td><td style="display: none;"></td><td style="display: none;"></td><td style="display: none;"></td><td style="display: none;"></td><td style="display: none;"></td><td>Ord. Complemento</td></tr><td>
+                        <span id="ctl00_cphContenido_grdCalificacionesRegu$3$4$spnMatricula" class="spanInfo">S21120191</span>
+                    </td><td>
+                        <span id="ctl00_cphContenido_grdCalificacionesRegu$3$4$spnAlumno" class="spanInfo">arizaga lopez alberto antonio</span>                                    
+                    </td><td>100</td><td>97</td><td>80</td><td>91</td><td>100</td><td>100</td><td style="display: none;"></td><td style="display: none;"></td><td style="display: none;"></td><td style="display: none;"></td><td style="display: none;"></td><td style="display: none;"></td><td style="display: none;"></td><td>Ordinario</td></tr><td>
+                        <span id="ctl00_cphContenido_grdCalificacionesRegu$4$5$spnMatricula" class="spanInfo">S21120199</span>
+                    </td><td>
+                        <span id="ctl00_cphContenido_grdCalificacionesRegu$4$5$spnAlumno" class="spanInfo">ayala ramos pedro antonio</span>                                    
+                    </td><td>70</td><td>91</td><td>88</td><td>100</td><td>100</td><td>100</td><td style="display: none;"></td><td style="display: none;"></td><td style="display: none;"></td><td style="display: none;"></td><td style="display: none;"></td><td style="display: none;"></td><td style="display: none;"></td><td>Ordinario</td></tr><td>
+                        <span id="ctl00_cphContenido_grdCalificacionesRegu$3$6$spnMatricula" class="spanInfo">S21120246</span>
+                    </td><td>
+                        <span id="ctl00_cphContenido_grdCalificacionesRegu$3$6$spnAlumno" class="spanInfo">balcazar reyes agustin</span>                                    
+                    </td><td>93</td><td>97</td><td>94</td><td>82</td><td>90</td><td>90</td><td style="display: none;"></td><td style="display: none;"></td><td style="display: none;"></td><td style="display: none;"></td><td style="display: none;"></td><td style="display: none;"></td><td style="display: none;"></td><td>Ord. Complemento</td></tr><td>
+                        <span id="ctl00_cphContenido_grdCalificacionesRegu$4$7$spnMatricula" class="spanInfo">S21120171</span>
+                    </td><td>
+                        <span id="ctl00_cphContenido_grdCalificacionesRegu$4$7$spnAlumno" class="spanInfo">calderon martinez eduardo josue</span>                                    
+                    </td><td>85</td><td>70</td><td>82</td><td>75</td><td>74</td><td>74</td><td style="display: none;"></td><td style="display: none;"></td><td style="display: none;"></td><td style="display: none;"></td><td style="display: none;"></td><td style="display: none;"></td><td style="display: none;"></td><td>Ordinario</td></tr><td>
+                        <span id="ctl00_cphContenido_grdCalificacionesRegu$3$8$spnMatricula" class="spanInfo">S21120247</span>
+                    </td><td>
+                        <span id="ctl00_cphContenido_grdCalificacionesRegu$3$8$spnAlumno" class="spanInfo">camargo mora maria guadalupe</span>                                    
+                    </td><td>85</td><td>94</td><td>88</td><td>91</td><td>100</td><td>100</td><td style="display: none;"></td><td style="display: none;"></td><td style="display: none;"></td><td style="display: none;"></td><td style="display: none;"></td><td style="display: none;"></td><td style="display: none;"></td><td>Ordinario</td></tr><td>
+                        <span id="ctl00_cphContenido_grdCalificacionesRegu$4$9$spnMatricula" class="spanInfo">S21120182</span>
+                    </td><td>
+                        <span id="ctl00_cphContenido_grdCalificacionesRegu$4$9$spnAlumno" class="spanInfo">campos manriquez eduardo</span>                                    
+                    </td><td>78</td><td>94</td><td>93</td><td>100</td><td>100</td><td>100</td><td style="display: none;"></td><td style="display: none;"></td><td style="display: none;"></td><td style="display: none;"></td><td style="display: none;"></td><td style="display: none;"></td><td style="display: none;"></td><td>Ordinario</td></tr><td>
+                        <span id="ctl00_cphContenido_grdCalificacionesRegu$3$10$spnMatricula" class="spanInfo">S21120185</span>
+                    </td><td>
+                        <span id="ctl00_cphContenido_grdCalificacionesRegu$3$10$spnAlumno" class="spanInfo">gomez hernandez ana gabriela</span>                                    
+                    </td><td>91</td><td>91</td><td>90</td><td>88</td><td>100</td><td>100</td><td style="display: none;"></td><td style="display: none;"></td><td style="display: none;"></td><td style="display: none;"></td><td style="display: none;"></td><td style="display: none;"></td><td style="display: none;"></td><td>Ord. Complemento</td></tr><td>
+                        <span id="ctl00_cphContenido_grdCalificacionesRegu$4$11$spnMatricula" class="spanInfo">S21120203</span>
+                    </td><td>
+                        <span id="ctl00_cphContenido_grdCalificacionesRegu$4$11$spnAlumno" class="spanInfo">guzman aguilera noemi</span>                                    
+                    </td><td>81</td><td>88</td><td>82</td><td>82</td><td>95</td><td>95</td><td style="display: none;"></td><td style="display: none;"></td><td style="display: none;"></td><td style="display: none;"></td><td style="display: none;"></td><td style="display: none;"></td><td style="display: none;"></td><td>Ordinario</td></tr><td>
+                        <span id="ctl00_cphContenido_grdCalificacionesRegu$3$12$spnMatricula" class="spanInfo">S21120196</span>
+                    </td><td>
+                        <span id="ctl00_cphContenido_grdCalificacionesRegu$3$12$spnAlumno" class="spanInfo">guzman carranza jorge</span>                                    
+                    </td><td>85</td><td>93</td><td>71</td><td>88</td><td>74</td><td>74</td><td style="display: none;"></td><td style="display: none;"></td><td style="display: none;"></td><td style="display: none;"></td><td style="display: none;"></td><td style="display: none;"></td><td style="display: none;"></td><td>Ordinario</td></tr><td>
+                        <span id="ctl00_cphContenido_grdCalificacionesRegu$4$13$spnMatricula" class="spanInfo">S20120216</span>
+                    </td><td>
+                        <span id="ctl00_cphContenido_grdCalificacionesRegu$4$13$spnAlumno" class="spanInfo">guzman gonzalez maria guadalupe</span>                                    
+                    </td><td>72</td><td>76</td><td>30</td><td>40</td><td>40</td><td>40</td><td style="display: none;"></td><td style="display: none;"></td><td style="display: none;"></td><td style="display: none;"></td><td style="display: none;"></td><td style="display: none;"></td><td style="display: none;"></td><td>Rep. Complemento</td></tr><td>
+                        <span id="ctl00_cphContenido_grdCalificacionesRegu$3$14$spnMatricula" class="spanInfo">S21120177</span>
+                    </td><td>
+                        <span id="ctl00_cphContenido_grdCalificacionesRegu$3$14$spnAlumno" class="spanInfo">huerta sermeño alfredo</span>                                    
+                    </td><td>78</td><td>84</td><td>100</td><td>82</td><td>94</td><td>94</td><td style="display: none;"></td><td style="display: none;"></td><td style="display: none;"></td><td style="display: none;"></td><td style="display: none;"></td><td style="display: none;"></td><td style="display: none;"></td><td>Ordinario</td></tr><td>
+                        <span id="ctl00_cphContenido_grdCalificacionesRegu$4$15$spnMatricula" class="spanInfo">S21120175</span>
+                    </td><td>
+                        <span id="ctl00_cphContenido_grdCalificacionesRegu$4$15$spnAlumno" class="spanInfo">lara lerma julio cesar</span>                                    
+                    </td><td>84</td><td>97</td><td>88</td><td>80</td><td>100</td><td>100</td><td style="display: none;"></td><td style="display: none;"></td><td style="display: none;"></td><td style="display: none;"></td><td style="display: none;"></td><td style="display: none;"></td><td style="display: none;"></td><td>Ord. Complemento</td></tr><td>
+                        <span id="ctl00_cphContenido_grdCalificacionesRegu$3$16$spnMatricula" class="spanInfo">S21120190</span>
+                    </td><td>
+                        <span id="ctl00_cphContenido_grdCalificacionesRegu$3$16$spnAlumno" class="spanInfo">lemus cano ulises jared</span>                                    
+                    </td><td>90</td><td>86</td><td>71</td><td>84</td><td>98</td><td>98</td><td style="display: none;"></td><td style="display: none;"></td><td style="display: none;"></td><td style="display: none;"></td><td style="display: none;"></td><td style="display: none;"></td><td style="display: none;"></td><td>Ordinario</td></tr><td>
+                        <span id="ctl00_cphContenido_grdCalificacionesRegu$4$17$spnMatricula" class="spanInfo">S21120249</span>
+                    </td><td>
+                        <span id="ctl00_cphContenido_grdCalificacionesRegu$4$17$spnAlumno" class="spanInfo">leon hernandez pedro</span>                                    
+                    </td><td>85</td><td>94</td><td>94</td><td>88</td><td>100</td><td>100</td><td style="display: none;"></td><td style="display: none;"></td><td style="display: none;"></td><td style="display: none;"></td><td style="display: none;"></td><td style="display: none;"></td><td style="display: none;"></td><td>Ordinario</td></tr><td>
+                        <span id="ctl00_cphContenido_grdCalificacionesRegu$3$18$spnMatricula" class="spanInfo">S21120186</span>
+                    </td><td>
+                        <span id="ctl00_cphContenido_grdCalificacionesRegu$3$18$spnAlumno" class="spanInfo">leon sandoval jorge</span>                                    
+                    </td><td>74</td><td>76</td><td>75</td><td>77</td><td>73</td><td>73</td><td style="display: none;"></td><td style="display: none;"></td><td style="display: none;"></td><td style="display: none;"></td><td style="display: none;"></td><td style="display: none;"></td><td style="display: none;"></td><td>Ord. Complemento</td></tr><td>
+                        <span id="ctl00_cphContenido_grdCalificacionesRegu$4$19$spnMatricula" class="spanInfo">S21120230</span>
+                    </td><td>
+                        <span id="ctl00_cphContenido_grdCalificacionesRegu$4$19$spnAlumno" class="spanInfo">luna regalado andres</span>                                    
+                    </td><td>89</td><td>82</td><td>88</td><td>40</td><td>40</td><td>40</td><td style="display: none;"></td><td style="display: none;"></td><td style="display: none;"></td><td style="display: none;"></td><td style="display: none;"></td><td style="display: none;"></td><td style="display: none;"></td><td>Ord. Complemento</td></tr><td>
+                        <span id="ctl00_cphContenido_grdCalificacionesRegu$3$20$spnMatricula" class="spanInfo">S21120250</span>
+                    </td><td>
+                        <span id="ctl00_cphContenido_grdCalificacionesRegu$3$20$spnAlumno" class="spanInfo">magaña dominguez lizzeth</span>                                    
+                    </td><td>93</td><td>75</td><td>81</td><td>82</td><td>100</td><td>100</td><td style="display: none;"></td><td style="display: none;"></td><td style="display: none;"></td><td style="display: none;"></td><td style="display: none;"></td><td style="display: none;"></td><td style="display: none;"></td><td>Ordinario</td></tr><td>
+                        <span id="ctl00_cphContenido_grdCalificacionesRegu$4$21$spnMatricula" class="spanInfo">S21120181</span>
+                    </td><td>
+                        <span id="ctl00_cphContenido_grdCalificacionesRegu$4$21$spnAlumno" class="spanInfo">martinez campos ian rodolfo</span>                                    
+                    </td><td>84</td><td>100</td><td>88</td><td>88</td><td>80</td><td>80</td><td style="display: none;"></td><td style="display: none;"></td><td style="display: none;"></td><td style="display: none;"></td><td style="display: none;"></td><td style="display: none;"></td><td style="display: none;"></td><td>Ordinario</td></tr><td>
+                        <span id="ctl00_cphContenido_grdCalificacionesRegu$3$22$spnMatricula" class="spanInfo">S21120211</span>
+                    </td><td>
+                        <span id="ctl00_cphContenido_grdCalificacionesRegu$3$22$spnAlumno" class="spanInfo">martinez cornejo diana</span>                                    
+                    </td><td>93</td><td>85</td><td>70</td><td>73</td><td>98</td><td>98</td><td style="display: none;"></td><td style="display: none;"></td><td style="display: none;"></td><td style="display: none;"></td><td style="display: none;"></td><td style="display: none;"></td><td style="display: none;"></td><td>Ordinario</td></tr><td>
+                        <span id="ctl00_cphContenido_grdCalificacionesRegu$4$23$spnMatricula" class="spanInfo">S21120238</span>
+                    </td><td>
+                        <span id="ctl00_cphContenido_grdCalificacionesRegu$4$23$spnAlumno" class="spanInfo">martinez diaz rafael</span>                                    
+                    </td><td>85</td><td>70</td><td>70</td><td>76</td><td>70</td><td>70</td><td style="display: none;"></td><td style="display: none;"></td><td style="display: none;"></td><td style="display: none;"></td><td style="display: none;"></td><td style="display: none;"></td><td style="display: none;"></td><td>Ord. Complemento</td></tr><td>
+                        <span id="ctl00_cphContenido_grdCalificacionesRegu$3$24$spnMatricula" class="spanInfo">S21120219</span>
+                    </td><td>
+                        <span id="ctl00_cphContenido_grdCalificacionesRegu$3$24$spnAlumno" class="spanInfo">martinez martinez raul</span>                                    
+                    </td><td>86</td><td>81</td><td>81</td><td>70</td><td>88</td><td>88</td><td style="display: none;"></td><td style="display: none;"></td><td style="display: none;"></td><td style="display: none;"></td><td style="display: none;"></td><td style="display: none;"></td><td style="display: none;"></td><td>Ord. Complemento</td></tr><td>
+                        <span id="ctl00_cphContenido_grdCalificacionesRegu$4$25$spnMatricula" class="spanInfo">S21120239</span>
+                    </td><td>
+                        <span id="ctl00_cphContenido_grdCalificacionesRegu$4$25$spnAlumno" class="spanInfo">medrano escoto carmen alondra</span>                                    
+                    </td><td>93</td><td>94</td><td>88</td><td>88</td><td>88</td><td>88</td><td style="display: none;"></td><td style="display: none;"></td><td style="display: none;"></td><td style="display: none;"></td><td style="display: none;"></td><td style="display: none;"></td><td style="display: none;"></td><td>Ordinario</td></tr><td>
+                        <span id="ctl00_cphContenido_grdCalificacionesRegu$3$26$spnMatricula" class="spanInfo">S21120202</span>
+                    </td><td>
+                        <span id="ctl00_cphContenido_grdCalificacionesRegu$3$26$spnAlumno" class="spanInfo">mendez sanchez jose guadalupe</span>                                    
+                    </td><td>93</td><td>100</td><td>81</td><td>88</td><td>100</td><td>100</td><td style="display: none;"></td><td style="display: none;"></td><td style="display: none;"></td><td style="display: none;"></td><td style="display: none;"></td><td style="display: none;"></td><td style="display: none;"></td><td>Ordinario</td></tr><td>
+                        <span id="ctl00_cphContenido_grdCalificacionesRegu$4$27$spnMatricula" class="spanInfo">S21120213</span>
+                    </td><td>
+                        <span id="ctl00_cphContenido_grdCalificacionesRegu$4$27$spnAlumno" class="spanInfo">pantoja moreno luis alberto</span>                                    
+                    </td><td>81</td><td>88</td><td>87</td><td>70</td><td>89</td><td>89</td><td style="display: none;"></td><td style="display: none;"></td><td style="display: none;"></td><td style="display: none;"></td><td style="display: none;"></td><td style="display: none;"></td><td style="display: none;"></td><td>Ord. Complemento</td></tr><td>
+                        <span id="ctl00_cphContenido_grdCalificacionesRegu$3$28$spnMatricula" class="spanInfo">S21120195</span>
+                    </td><td>
+                        <span id="ctl00_cphContenido_grdCalificacionesRegu$3$28$spnAlumno" class="spanInfo">peñaloza tenorio abril montserrat</span>                                    
+                    </td><td>72</td><td>85</td><td>75</td><td>50</td><td>20</td><td>20</td><td style="display: none;"></td><td style="display: none;"></td><td style="display: none;"></td><td style="display: none;"></td><td style="display: none;"></td><td style="display: none;"></td><td style="display: none;"></td><td>Ord. Complemento</td></tr><td>
+                        <span id="ctl00_cphContenido_grdCalificacionesRegu$4$29$spnMatricula" class="spanInfo">S21120201</span>
+                    </td><td>
+                        <span id="ctl00_cphContenido_grdCalificacionesRegu$4$29$spnAlumno" class="spanInfo">perez medina angel de jesus</span>                                    
+                    </td><td>70</td><td>94</td><td>81</td><td>88</td><td>100</td><td>100</td><td style="display: none;"></td><td style="display: none;"></td><td style="display: none;"></td><td style="display: none;"></td><td style="display: none;"></td><td style="display: none;"></td><td style="display: none;"></td><td>Ordinario</td></tr><td>
+                        <span id="ctl00_cphContenido_grdCalificacionesRegu$3$30$spnMatricula" class="spanInfo">S21120205</span>
+                    </td><td>
+                        <span id="ctl00_cphContenido_grdCalificacionesRegu$3$30$spnAlumno" class="spanInfo">ramirez nuñez raul</span>                                    
+                    </td><td>56</td><td>82</td><td>30</td><td>0</td><td>13</td><td>13</td><td style="display: none;"></td><td style="display: none;"></td><td style="display: none;"></td><td style="display: none;"></td><td style="display: none;"></td><td style="display: none;"></td><td style="display: none;"></td><td>Ord. Complemento</td></tr><td>
+                        <span id="ctl00_cphContenido_grdCalificacionesRegu$4$31$spnMatricula" class="spanInfo">S21120198</span>
+                    </td><td>
+                        <span id="ctl00_cphContenido_grdCalificacionesRegu$4$31$spnAlumno" class="spanInfo">rivera martinez rogelio fabricio</span>                                    
+                    </td><td>93</td><td>70</td><td>81</td><td>82</td><td>80</td><td>80</td><td style="display: none;"></td><td style="display: none;"></td><td style="display: none;"></td><td style="display: none;"></td><td style="display: none;"></td><td style="display: none;"></td><td style="display: none;"></td><td>Ord. Complemento</td></tr><td>
+                        <span id="ctl00_cphContenido_grdCalificacionesRegu$3$32$spnMatricula" class="spanInfo">S21120180</span>
+                    </td><td>
+                        <span id="ctl00_cphContenido_grdCalificacionesRegu$3$32$spnAlumno" class="spanInfo">rodriguez alcantar dulce maria</span>                                    
+                    </td><td>96</td><td>97</td><td>78</td><td>75</td><td>100</td><td>100</td><td style="display: none;"></td><td style="display: none;"></td><td style="display: none;"></td><td style="display: none;"></td><td style="display: none;"></td><td style="display: none;"></td><td style="display: none;"></td><td>Ordinario</td></tr><td>
+                        <span id="ctl00_cphContenido_grdCalificacionesRegu$4$33$spnMatricula" class="spanInfo">S21120187</span>
+                    </td><td>
+                        <span id="ctl00_cphContenido_grdCalificacionesRegu$4$33$spnAlumno" class="spanInfo">vasquez calderon diego jesus</span>                                    
+                    </td><td>97</td><td>91</td><td>82</td><td>97</td><td>100</td><td>100</td><td style="display: none;"></td><td style="display: none;"></td><td style="display: none;"></td><td style="display: none;"></td><td style="display: none;"></td><td style="display: none;"></td><td style="display: none;"></td><td>Ordinario</td></tr><td>
+                        <span id="ctl00_cphContenido_grdCalificacionesRegu$3$34$spnMatricula" class="spanInfo">S21120188</span>
+                    </td><td>
+                        <span id="ctl00_cphContenido_grdCalificacionesRegu$3$34$spnAlumno" class="spanInfo">vazquez paniagua juan</span>                                    
+                    </td><td>70</td><td>85</td><td>94</td><td>100</td><td>94</td><td>94</td><td style="display: none;"></td><td style="display: none;"></td><td style="display: none;"></td><td style="display: none;"></td><td style="display: none;"></td><td style="display: none;"></td><td style="display: none;"></td><td>Ordinario</td></tr><td>
+                        <span id="ctl00_cphContenido_grdCalificacionesRegu$4$35$spnMatricula" class="spanInfo">S21120206</span>
+                    </td><td>
+                        <span id="ctl00_cphContenido_grdCalificacionesRegu$4$35$spnAlumno" class="spanInfo">vega cornejo jose jesus</span>                                    
+                    </td><td>85</td><td>90</td><td>72</td><td>70</td><td>70</td><td>70</td><td style="display: none;"></td><td style="display: none;"></td><td style="display: none;"></td><td style="display: none;"></td><td style="display: none;"></td><td style="display: none;"></td><td style="display: none;"></td><td>Ord. Complemento</td></tr></tr></table>

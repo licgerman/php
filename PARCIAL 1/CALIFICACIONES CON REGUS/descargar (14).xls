@@ -1,0 +1,13 @@
+<table border='2px'><tr bgcolor='#87AFC6'><th>Matricula</th><th>Alumno</th><th>U#1</th><th>U#2</th><th>U#3</th><th>U#4</th><th>U#5</th><th>U#6</th><th style="display: none;">U#7</th><th style="display: none;">U#8</th><th style="display: none;">U#9</th><th style="display: none;">U#10</th><th style="display: none;">U#11</th><th style="display: none;">U#12</th><th style="display: none;">U#13</th><th>Acreditacion</th></tr><td>
+                        <span id="ctl00_cphContenido_grdCalificacionesRegu$3$0$spnMatricula" class="spanInfo">S19120002</span>
+                    </td><td>
+                        <span id="ctl00_cphContenido_grdCalificacionesRegu$3$0$spnAlumno" class="spanInfo">espino gonzalez leopoldo leonel</span>                                    
+                    </td><td>91</td><td>75</td><td>70</td><td>80</td><td>90</td><td>90</td><td style="display: none;"></td><td style="display: none;"></td><td style="display: none;"></td><td style="display: none;"></td><td style="display: none;"></td><td style="display: none;"></td><td style="display: none;"></td><td>Ord. Complemento</td></tr><td>
+                        <span id="ctl00_cphContenido_grdCalificacionesRegu$4$1$spnMatricula" class="spanInfo">S18120167</span>
+                    </td><td>
+                        <span id="ctl00_cphContenido_grdCalificacionesRegu$4$1$spnAlumno" class="spanInfo">gonzalez gonzalez andres</span>                                    
+                    </td><td>61</td><td>83</td><td>66</td><td>75</td><td>11</td><td>11</td><td style="display: none;"></td><td style="display: none;"></td><td style="display: none;"></td><td style="display: none;"></td><td style="display: none;"></td><td style="display: none;"></td><td style="display: none;"></td><td>Especial</td></tr><td>
+                        <span id="ctl00_cphContenido_grdCalificacionesRegu$3$2$spnMatricula" class="spanInfo">S18120199</span>
+                    </td><td>
+                        <span id="ctl00_cphContenido_grdCalificacionesRegu$3$2$spnAlumno" class="spanInfo">suarez nambo victor hugo</span>                                    
+                    </td><td>72</td><td>88</td><td>70</td><td>80</td><td>90</td><td>90</td><td style="display: none;"></td><td style="display: none;"></td><td style="display: none;"></td><td style="display: none;"></td><td style="display: none;"></td><td style="display: none;"></td><td style="display: none;"></td><td>Rep. Complemento</td></tr></tr></table>
